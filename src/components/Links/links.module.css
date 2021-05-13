@@ -1,0 +1,12 @@
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px;
+}
+
+.links > a{
+    text-decoration: none;
+    color: #0a58a3;
+    font-size: 18px;
+}
